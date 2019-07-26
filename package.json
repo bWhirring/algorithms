@@ -1,0 +1,21 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bWhirring/algorithms.git"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "HUHU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bWhirring/algorithms/issues"
+  },
+  "homepage": "https://github.com/bWhirring/algorithms#readme"
+}
