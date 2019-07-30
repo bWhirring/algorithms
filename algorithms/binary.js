@@ -1,5 +1,5 @@
 /**
- * 二分查找法
+ * 二分查找法(O(logn))
  * @param {Array} arr 查找的字符串
  * @param {*} num 查找的数字
  * @returns
