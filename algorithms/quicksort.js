@@ -9,7 +9,8 @@
 function quickSort(arr) {
   if (arr.length <= 1) return arr;
 
-  const pivot = arr.pop();
+  const pivotIndex = Math.floor(arr.length / 2);
+  const pivot = arr.splice(pivotIndex, 1)[0];
 
   const len = arr.length;
 
@@ -23,7 +24,7 @@ function quickSort(arr) {
   return quickSort(leftArr).concat([pivot], quickSort(rightArr));
 }
 
-const array = [3, 5, 2, 4, 1]
+const array = [3, 5, 2, 4, 1, 0]
 
 const res = quickSort(array);
 console.log(res)
