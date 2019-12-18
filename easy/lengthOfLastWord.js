@@ -9,14 +9,14 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLastWord = function(s) {
-  s = s.trim();
-  if (s.length === 0) return 0;
+var lengthOfLastWord = function (s) {
+  s = s.trim()
+  if (s.length === 0) return 0
   const last = s
     .split(' ')
     .filter(v => !!v)
-    .pop();
-  return last.length;
-};
+    .pop()
+  return last.length
+}
 
-console.log(lengthOfLastWord('  a '));
+console.log(lengthOfLastWord('  a '))

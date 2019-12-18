@@ -5,29 +5,29 @@
  示例 2: 输入: -123 输出: -321
  示例 3: 输入: 120 输出: 21
  */
-1534236469;
+// 1534236469;
 /**
  * @param {number} x
  * @return {number}
  */
-var reverse = function(x) {
-  let num = `${x}`;
-  let len = num.length;
+var reverse = function (x) {
+  let num = `${x}`
+  let len = num.length
   while (num[len - 1] === '0') {
-    num = num.slice(0, len - 1);
-    len = num.length;
+    num = num.slice(0, len - 1)
+    len = num.length
   }
   num = `${Math.abs(num)}`
     .split('')
     .reverse()
-    .join('');
+    .join('')
 
-  num = x < 0 ? 0 - num : +num;
+  num = x < 0 ? 0 - num : +num
   if (num > Math.pow(2, 31) - 1 || num < -Math.pow(2, 31)) {
-    return 0;
+    return 0
   } else {
-    return num;
+    return num
   }
-};
+}
 
-console.log(reverse(1534236469));
+console.log(reverse(1534236469))
