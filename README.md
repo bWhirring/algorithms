@@ -27,3 +27,4 @@
 ### 中等难度
 
 1. [最长回文子串](./medium/longestPalindrome.js)
+2. [Z字形变换](./medium/convert.js)
