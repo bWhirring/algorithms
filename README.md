@@ -26,5 +26,11 @@
 
 ### 中等难度
 
-1. [最长回文子串](./medium/longestPalindrome.js)
-2. [Z字形变换](./medium/convert.js)
+1. [盛最多水的容器](https://github.com/bWhirring/algorithms/issues/1)
+1. [整数转罗马数字](https://github.com/bWhirring/algorithms/issues/2)
+2. [字符串转换整数](https://github.com/bWhirring/algorithms/issues/3)  
+3. [最长回文子串](https://github.com/bWhirring/algorithms/issues/4)
+4. [Z字形变换](https://github.com/bWhirring/algorithms/issues/5)
+
+
+
