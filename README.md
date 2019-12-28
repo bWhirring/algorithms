@@ -21,7 +21,7 @@
 16. [x的平方根](./easy/sqrt.js)
 17. [两数之和](./easy/twoSum.js)
 18. [搜索插入位置](./easy/searchInsertPosition.js)
-19. [判断括号匹配](./easy/validParentheses.js)
+19. [判断括号匹配](https://github.com/bWhirring/algorithms/issues/9)
 
 
 ### 中等难度
@@ -33,6 +33,7 @@
 5. [Z字形变换](https://github.com/bWhirring/algorithms/issues/5)
 6. [三数之和](https://github.com/bWhirring/algorithms/issues/6)
 7. [最接近三数之和](https://github.com/bWhirring/algorithms/issues/7)
+8. [四数之和](https://github.com/bWhirring/algorithms/issues/8)
 
 
 
