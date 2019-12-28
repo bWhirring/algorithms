@@ -27,10 +27,12 @@
 ### 中等难度
 
 1. [盛最多水的容器](https://github.com/bWhirring/algorithms/issues/1)
-1. [整数转罗马数字](https://github.com/bWhirring/algorithms/issues/2)
-2. [字符串转换整数](https://github.com/bWhirring/algorithms/issues/3)  
-3. [最长回文子串](https://github.com/bWhirring/algorithms/issues/4)
-4. [Z字形变换](https://github.com/bWhirring/algorithms/issues/5)
+2. [整数转罗马数字](https://github.com/bWhirring/algorithms/issues/2)
+3. [字符串转换整数](https://github.com/bWhirring/algorithms/issues/3)  
+4. [最长回文子串](https://github.com/bWhirring/algorithms/issues/4)
+5. [Z字形变换](https://github.com/bWhirring/algorithms/issues/5)
+6. [三数之和](https://github.com/bWhirring/algorithms/issues/6)
+7. [最接近三数之和](https://github.com/bWhirring/algorithms/issues/7)
 
 
 
