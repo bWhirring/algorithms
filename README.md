@@ -34,6 +34,7 @@
 6. [三数之和](https://github.com/bWhirring/algorithms/issues/6)
 7. [最接近三数之和](https://github.com/bWhirring/algorithms/issues/7)
 8. [四数之和](https://github.com/bWhirring/algorithms/issues/8)
+9. [括号生成](https://github.com/bWhirring/algorithms/issues/11)
 
 
 
